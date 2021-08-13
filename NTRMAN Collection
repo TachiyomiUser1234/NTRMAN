@@ -1,0 +1,17 @@
+{
+  "title": "<NTRMAN Collection>",
+  "description": "<Collection of NTRMAN>",
+  "artist": "<NTRMAN>",
+  "author": "<NTRMAN>",
+  "cover": "<https://imgur.com/kL8RJje>",
+  "chapters": {
+    "<1>": {
+      "title": "<Awakening of a Goddess>",
+      "volume": "<1>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<vHcqOG0>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
